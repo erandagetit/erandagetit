@@ -5,7 +5,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/erandagetit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/erandagetit/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-   - [VPN Setup and Usage](https://github.com/erandagetit/configure-ad) 
+   - [VPN Setup and Usage](https://github.com/erandagetit/VPN-Setup-and-Usage) 
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/erandagetit/configure-ad)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/erandagetit/azure-network-protocols)
 
